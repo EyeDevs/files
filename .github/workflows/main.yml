@@ -13,4 +13,4 @@ jobs:
       with:
         server: 49.12.228.246
         username: root
-        password: ${{ secrets.ftp_password }}
+        password: v6zy8q2F&K9t
